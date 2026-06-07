@@ -12,14 +12,8 @@
 🌱 Learning and improving skills in SQL, Power BI, Excel, and Python.
 
 ## Skills
-- SQL
-- Power BI
-- Excel
-- Python
-- Data Analysis
-- Data Visualization
-- Incident Management
-
+- SQL Power BI Excel Python Data Analysis Data Visualization Incident Management
+  
 ## Career Goal
 To build a successful career in Data Analytics and contribute to data-driven business decisions.
 
