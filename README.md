@@ -1,5 +1,5 @@
 # Hi, I'm Mallika Shaik 👋
-Glad you're here! Feel free to explore my projects and see what I've been working on.
+- Glad you're here! Feel free to explore my projects and see what I've been working on.
 
 ## About Me
 Always curious, always learning. I enjoy exploring new technologies, working with data, and building solutions that create value. Here, you'll find a collection of projects that reflect my growth, creativity, and passion for analytics.
