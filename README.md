@@ -1,6 +1,8 @@
 # Hi, I'm Mallika Shaik 👋
 
 ## About Me
+Always curious, always learning. I enjoy exploring new technologies, working with data, and building solutions that create value. Here, you'll find a collection of projects that reflect my growth, creativity, and passion for analytics.
+
 🎓 B.Sc Graduate
 
 💼 Currently working at Cognizant with 4 years of IT experience.
