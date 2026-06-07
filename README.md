@@ -3,7 +3,7 @@
 ## About Me
 🎓 B.Sc Graduate
 
-💼 Currently working at Cognizant with 4.2 years of IT experience.
+💼 Currently working at Cognizant with 4 years of IT experience.
 
 🚨 2.5 years of experience in Major Incident Management (MIM).
 
