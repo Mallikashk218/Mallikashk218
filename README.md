@@ -22,7 +22,7 @@
 ![Incident Management](https://img.shields.io/badge/Incident_Management-DC3545?style=for-the-badge&logo=servicenow&logoColor=white)
   
 ## Career Goal
-To build a successful career in Data Analytics and contribute to data-driven business decisions.
+- To build a successful career in Data Analytics and contribute to data-driven business decisions.
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mallika-shaik-199b59283/
