@@ -10,7 +10,7 @@ Always curious, always learning. I enjoy exploring new technologies, working wit
 
 🚨 2.5 years of experience in Major Incident Management (MIM).
 
-📊 1.5 years of experience in Data Analytics.
+📊 2.5 years of experience in Data Analytics.
 
 🌱 Learning and improving skills in SQL, Power BI, Excel, and Python.
 
